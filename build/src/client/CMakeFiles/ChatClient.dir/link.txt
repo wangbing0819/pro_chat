@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -g -Wall -rdynamic CMakeFiles/ChatClient.dir/main.cpp.o -o /home/www/project/project_chat/bin/ChatClient   -L/usr/lib64/mysql  -Wl,-rpath,/usr/lib64/mysql -lpthread 
